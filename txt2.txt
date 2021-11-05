@@ -1,3 +1,5 @@
 segundo archivo de tetxo
 
 contiene datos en contraseñas
+
+PUEDE CONTENER DATOS ALFANUMERICOS
